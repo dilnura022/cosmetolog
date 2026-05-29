@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react'
 
-function Home() {
+function Login() {
 
   const [name, setName] = useState("");
   const [password, setPassword] = useState("");
@@ -73,4 +73,4 @@ function Home() {
   )
 }
 
-export default Home
+export default Login
