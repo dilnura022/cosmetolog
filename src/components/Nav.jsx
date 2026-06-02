@@ -9,8 +9,6 @@ export default function Nav() {
         <a href="/about">О нас</a>
         <a href="/SpecialOffers">Прайс</a>
         <a href="/schedule">Расписание</a>
-        <a href="#">Акции</a>
-        <a href="#">Магазин</a>
       </div>
     </nav>
   );

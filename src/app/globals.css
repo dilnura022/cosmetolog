@@ -3832,6 +3832,10 @@ body {
   justify-content: flex-end;
 }
 
+.start-curs{
+  margin-top: 130px;
+}
+
 .about-img {
   width: 100%;
   height: auto;
@@ -3859,6 +3863,10 @@ body {
 
 .about-desc-text:last-child {
   margin-bottom: 0;
+}
+
+.nav-links{
+  gap: 100px;
 }
 
 @media (max-width: 1024px) {
